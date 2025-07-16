@@ -120,7 +120,7 @@ This bot requires secrets to function. Go to your repository's **Settings > Secr
 
 You need to add the following secrets:
 * **Bot License Key**:
-    * `BOT_LICENSE_EMAIL`: License in the form of an email upon purchase at: [Buy License $17](https://lynk.id/belajaradmobpemula/62e39l28yd2o)
+    * `BOT_LICENSE_EMAIL`: License in the form of an email upon purchase at: [Buy License $17](https://t.ly/7fHLr)
 * **Twitter API Keys**:
     * `TWITTER_API_KEY`
     * `TWITTER_API_SECRET`
